@@ -1,0 +1,9 @@
+role_id,department,role_desc
+DS001,Delivery,"Delivering and collecting goods"
+FS001,Finance,"Maintaing finacial record of COD products"
+MS001,Maintenance,"Mantaining the warehouse "
+PS001,Packaging,"Packaging of goods as per order"
+QS001,"Quality ","Checking for damage product"
+SC001,Scanning,"Scaaning on goods as per order"
+SE001,Security,"for security purpose"
+SS001,"Sorting ","Sorting of goods on arrival"

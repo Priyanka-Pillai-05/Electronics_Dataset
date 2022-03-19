@@ -1,0 +1,6 @@
+order_id,prod_id,staff_id,prod_damaged,return_reason,return_date
+O001,PI002,SI004,Y,damage product,26-10-21
+O004,PI015,SI001,N,expired,28-10-21
+O006,PI005,SI002,N,colour ,01-11-21
+O011,PI009,SI004,Y,damage product,05-11-21
+O013,PI001,SI003,N,size,07-11-21

@@ -1,0 +1,21 @@
+customer_id,customer_fname,customer_lname,gender,customer_address,customer_state,customer_city,customer_zip,customer_phone,customer_email
+A001,Ria,Kia,F,"K-9,sadabahar",Maharashtra,Pune,411016,9933445577,ria.kia@gmail.com
+A002,Pia,Kedia,F,"L-20, Yamuna",Gujarat,Ahmedabad,411002,8877665544,piak@gmail.com
+A003,Jia,Shaw,F,"M-19, Ganga",Maharashtra,Nagpur,411017,7766554433,shawjia@gmail.com
+A004,Sia,Raman,F,"N-22, Teesta",TamilNadu,Chennai,610119,6655443322,ramansia@gmai.com
+A005,Dia,Mirza,F,"P-47, Mandana ",Gujarat,Ahmedabad,600524,9988776655,mirza@gmail.com
+A006,Lia,Pai,F,"A-07, Swarna",Karnataka,Bengaluru,410101,7898065463,pailia@gmail.com
+A007,Gita,Pillai,F,"C-98, Brahmaputra",Kerala,Cochin,401982,9087653423,pillai.g@gmail.com
+A008,Sita,Gupta,F,"B-20, Indiranagar","Uttar Pradesh",Lucknow,500813,9236475891,gupta.sita@gmail.com
+A009,"Ram ",Verma,M,"D-21, Bhimpur",Bihar,Patna,400819,9121314567,vremaram@gmail.com
+A010,Lakhan,Srivastav,M,"E-22, Godrej","Uttar Pradesh",Kanpur,412356,9796214364,lakhans@gmail.com
+A011,Hanuman,Sharma,M,"F-23, Rampur",Maharashtra,Nashik,411213,7879712346,hanumans@gmail.com
+A012,Vanita,Chadra,F,"G-24, BBD","Uttar Pradesh",Lucknow,411907,7678791243,vanitac@gmail.com
+A013,Abdul,Madoo,M,"H-25, Bhiwandi","Maharashtra ",Mumbai,412655,8786858483,abdul@gmail.com
+A014,"Shiv ",Pandya,M,"I-26, Vile Parle",Maharashtra,Mumbai,412222,9080706052,shivp@gmail.com
+A015,Priyanka,Pillai,F,"J-47, Kilpauk",TamilNadu,Chennai,410003,8790344555,pillaip@gmail.com
+A016,Shashank,Sharma,M,"K--48, Padi",Rajasthan,Jaipur,411011,9192939455,sharmas@gmail.com
+A017,Harshad,Mehta,M,"L-49, Guindy",TamilNadu,Chennai,601234,8878971023,mehtah@gmail.com
+A018,"Ashwin ",Mehta,M,"L-50, Guindy",TamilNadu,Chennai,601234,9044666782,mehtaa@gmail.com
+A019,Abhi,Bachan,M,"K-88, Worli",Maharashtra,Mumbai,602334,8798023445,bachan@gmail.com
+A020,Aishwarya,Rai,F,"M-98, Bandra",Maharashtra,Mumbai,604356,7872221111,aishrai@gmail.com

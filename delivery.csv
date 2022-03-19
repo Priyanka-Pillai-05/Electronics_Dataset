@@ -1,0 +1,21 @@
+order_id,staff_id,del_mode,package_size,del_date,order_damaged
+O001,SI002,Two Wheeler,M,22-10-21,N
+O002,SI002,Two Wheeler,S,23-10-21,N
+O003,SI004,Two Wheeler,S,24-10-21,N
+O004,SI002,Mini truck,L,25-10-21,N
+O005,SI003,Two Wheeler,M,26-10-21,N
+O006,SI003,Two Wheeler,M,27-10-21,N
+O007,SI004,Two Wheeler,S,29-10-21,N
+O008,SI002,Two Wheeler,S,31-10-21,N
+O009,SI004,Mini truck,L,31-10-21,N
+O010,SI003,Mini truck,L,01-11-21,N
+O011,SI001,Two Wheeler,S,02-11-21,N
+O012,SI001,Two Wheeler,S,03-11-21,N
+O013,SI002,Mini truck,L,05-11-21,N
+O014,SI002,Two Wheeler,S,06-11-21,N
+O015,SI001,Two Wheeler,M,07-11-21,N
+O016,SI001,Two Wheeler,M,08-11-21,N
+O017,SI004,Two Wheeler,S,08-11-21,N
+O018,SI001,Two Wheeler,S,10-11-21,N
+O019,SI004,Mini truck,L,12-11-21,N
+O020,SI002,Two Wheeler,S,13-11-21,N
